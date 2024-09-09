@@ -21,11 +21,11 @@ Xác định xem 2 cạnh là dạng ``` Dark to Light ``` hay ``` Light to Dark
 Thay đổi giá trị ``` Edge Pair Width ``` và nhìn xem 2 cạnh nó khớp vào vị trí cần đo chưa.
 
 
-## SizeMeasurementAdvance
+## SizeMeasurementAdvance.vpp
 
 Thêm script để hiển thị thông tin lên trên hình ảnh
 
-Script C# Advance in CogToolBock
+Sử dụng CogToolBlock để chứa các tool xử lý. Script C# Advance in ```CogToolBlock```.
 ```
 #region namespace imports
 using System;
