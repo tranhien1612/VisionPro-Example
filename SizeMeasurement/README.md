@@ -12,7 +12,7 @@ Click ``` Choose File```, chọn file ảnh vật thể cần đo khoảnh cách
 
 ## CogPMAlignTool
 
-Chọn Current.TrainImage ở list (góc trên bên phải), sau đó kéo để khoanh vùng vật thể cần detect sau đó nhấn ``` Grab Train Image ``` và ``` Train ```.
+Nhấn ``` Grab Train Image ```, sau đó chọn Current.TrainImage ở list (góc trên bên phải), sau đó kéo để khoanh vùng vật thể cần detect sau đó và ``` Train ```.
 
 Sang tab ``` Train Region & Origin ``` chọn ``` Center Origin ``` để đặt gốc trụ tọa độ vào tâm của vật thể.
 
