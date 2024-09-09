@@ -12,6 +12,10 @@ Sang tab ``` Train Region & Origin ``` chọn ``` Center Origin ``` để đặt
 
 Tab ``` Graphic ```, tích chọn ``` Show Fine ```
 
+## CogFixtureTool
+
+Dùng để chuyển đổi hệ tọa độ
+
 ## CogCaliperTool
 
 Khoanh vùng cần đo khoảng cách.
