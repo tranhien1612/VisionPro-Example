@@ -13,6 +13,8 @@ Tab ```Graphic```, tích chọn ```Show Fine```.
 ## CogHistogramTool
 Phân tích biểu đồ histogram của vùng bất kỳ trên vật thể
 
+![screenshot](DetectErrorPart_Fail.JPG)
+
 ## C# Advance Script để hiển thị text lên vật thể
 
 ```
