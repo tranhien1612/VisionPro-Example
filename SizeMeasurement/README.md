@@ -30,6 +30,13 @@ Xác định xem 2 cạnh là dạng ``` Dark to Light ``` hay ``` Light to Dark
 
 Thay đổi giá trị ``` Edge Pair Width ``` và nhìn xem 2 cạnh nó khớp vào vị trí cần đo chưa.
 
+## Kết quả
+
+![ImageOK](SizeMeasurement.JPG)
+![ImageOK](SizeMeasurementAdvance.JPG)
+![ImageOK](SizeMeasurementAdvance_2.JPG)
+
+
 
 ## SizeMeasurementAdvance.vpp
 
