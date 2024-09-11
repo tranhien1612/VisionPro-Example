@@ -31,9 +31,10 @@ Xác định xem 2 cạnh là dạng ``` Dark to Light ``` hay ``` Light to Dark
 Thay đổi giá trị ``` Edge Pair Width ``` và nhìn xem 2 cạnh nó khớp vào vị trí cần đo chưa.
 
 ## Kết quả
-
-![ImageOK](SizeMeasurement.JPG)
+Đo khoảng cách một bộ phận trong vật thể
 ![ImageOK](SizeMeasurementAdvance.JPG)
+
+Đo khoảng cách một bộ phận trong vật thể và đo đường kính, bán kính của lỗ trong vật thể
 ![ImageOK](SizeMeasurementAdvance_2.JPG)
 
 
