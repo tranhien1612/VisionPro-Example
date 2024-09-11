@@ -17,6 +17,10 @@ Tab ```Graphic```, tích chọn ```Show Fine```
 ## CogResultsAnalysisTool
 Công cụ để tính toán các biểu thức toán học
 
+## Kết quả
+Đếm số lượng đồng xu 200 đồng
+![ImageOK](CountCircle200.JPG)
+
 ## Source Code show thông tin lên ảnh
 ```
 #region namespace imports
