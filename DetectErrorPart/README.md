@@ -13,7 +13,12 @@ Tab ```Graphic```, tích chọn ```Show Fine```.
 ## CogHistogramTool
 Phân tích biểu đồ histogram của vùng bất kỳ trên vật thể
 
-![screenshot](DetectErrorPart_Fail.JPG)
+## Kết quả
+Hình ảnh detect vật thể OK
+![ImageOK](DetectErrorPart_OK.JPG)
+
+Hình ảnh detect vật thể Fail (Phát hiện lỗi trên vật thể cần detect)
+![ImageFail](DetectErrorPart_Fail.JPG)
 
 ## C# Advance Script để hiển thị text lên vật thể
 
