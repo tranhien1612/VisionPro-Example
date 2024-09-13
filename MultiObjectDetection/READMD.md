@@ -1,7 +1,7 @@
 # Detect Multi Object
 
 ## Kết quả
-Kết quả phát hiện các vật thể trong khung ảnh và đo bán kính của hình các hình tròn thuộc các vật thể đã được detect.
+Kết quả phát hiện các vật thể trong khung ảnh, khoanh vùng hình tròn và đo bán kính của hình các hình tròn thuộc các vật thể đã được detect.
 
 ![Result](Result.JPG)
 
